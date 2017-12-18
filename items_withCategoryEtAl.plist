@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+   items2.plist
+   Nudge Me
+
+   Created by LouisBurkhardt on 12/12/17.
+   Copyright (c) 2017 LB. All rights reserved.
+-->
+<plist version="1.0">
+    <array>
+        <dict>
+            <key>Category</key>
+            <string>1</string>
+            <key>Frequency</key>
+            <string>Browse a newspaper</string>
+            <key>ItemID</key>
+            <string>low</string>
+            <key>Suggestion</key>
+            <string>all</string>
+            <key>TimeSensitive</key>
+            <string>mind</string>
+        </dict>
+        <dict>
+            <key>Category</key>
+            <string>2</string>
+            <key>Frequency</key>
+            <string>Drink a pint (of water)</string>
+            <key>ItemID</key>
+            <string>medium</string>
+            <key>Suggestion</key>
+            <string>all</string>
+            <key>TimeSensitive</key>
+            <string>diet</string>
+        </dict>
+        <dict>
+            <key>Category</key>
+            <string>3</string>
+            <key>Frequency</key>
+            <string>Drop down for about 20 pushups and sit-ups</string>
+            <key>ItemID</key>
+            <string>low</string>
+            <key>Suggestion</key>
+            <string>all</string>
+            <key>TimeSensitive</key>
+            <string>body</string>
+        </dict>
+        <dict>
+            <key>Category</key>
+            <string>4</string>
+            <key>Frequency</key>
+            <string>Dust / vacuum / mop / window wash / make the place nicer</string>
+            <key>ItemID</key>
+            <string>low</string>
+            <key>Suggestion</key>
+            <string>day</string>
+            <key>TimeSensitive</key>
+            <string>place</string>
+        </dict>
+        <dict>
+            <key>Category</key>
+            <string>5</string>
+            <key>Frequency</key>
+            <string>Eat a fresh vegetable or fruit</string>
+            <key>ItemID</key>
+            <string>medium</string>
+            <key>Suggestion</key>
+            <string>all</string>
+            <key>TimeSensitive</key>
+            <string>diet</string>
+        </dict>
+        <dict>
+            <key>Category</key>
+            <string>6</string>
+            <key>Frequency</key>
+            <string>Eliminate distractions and pray</string>
+            <key>ItemID</key>
+            <string>low</string>
+            <key>Suggestion</key>
+            <string>all</string>
+            <key>TimeSensitive</key>
+            <string>heart</string>
+        </dict>
+        <dict>
+            <key>Category</key>
+            <string>7</string>
+            <key>Frequency</key>
+            <string>Listen to a language lesson</string>
+            <key>ItemID</key>
+            <string>low</string>
+            <key>Suggestion</key>
+            <string>all</string>
+            <key>TimeSensitive</key>
+            <string>mind</string>
+        </dict>
+        <dict>
+            <key>Category</key>
+            <string>8</string>
+            <key>Frequency</key>
+            <string>Motion is lotion: stretch for 10 minutes</string>
+            <key>ItemID</key>
+            <string>low</string>
+            <key>Suggestion</key>
+            <string>all</string>
+            <key>TimeSensitive</key>
+            <string>body</string>
+        </dict>
+        <dict>
+            <key>Category</key>
+            <string>9</string>
+            <key>Frequency</key>
+            <string>Play an instrument, sing a few songs, or dance</string>
+            <key>ItemID</key>
+            <string>low</string>
+            <key>Suggestion</key>
+            <string>all</string>
+            <key>TimeSensitive</key>
+            <string>heart</string>
+        </dict>
+        <dict>
+            <key>Category</key>
+            <string>10</string>
+            <key>Frequency</key>
+            <string>Read a book until your mind wanders</string>
+            <key>ItemID</key>
+            <string>medium</string>
+            <key>Suggestion</key>
+            <string>all</string>
+            <key>TimeSensitive</key>
+            <string>mind</string>
+        </dict>
+        <dict>
+            <key>Category</key>
+            <string>11</string>
+            <key>Frequency</key>
+            <string>Run / walk 1 relatively fast mile</string>
+            <key>ItemID</key>
+            <string>medium</string>
+            <key>Suggestion</key>
+            <string>day</string>
+            <key>TimeSensitive</key>
+            <string>body</string>
+        </dict>
+        <dict>
+            <key>Category</key>
+            <string>12</string>
+            <key>Frequency</key>
+            <string>Run / walk for an hour</string>
+            <key>ItemID</key>
+            <string>low</string>
+            <key>Suggestion</key>
+            <string>day</string>
+            <key>TimeSensitive</key>
+            <string>body</string>
+        </dict>
+        <dict>
+            <key>Category</key>
+            <string>13</string>
+            <key>Frequency</key>
+            <string>Run 30 minute intervals or walk briskly</string>
+            <key>ItemID</key>
+            <string>low</string>
+            <key>Suggestion</key>
+            <string>day</string>
+            <key>TimeSensitive</key>
+            <string>body</string>
+        </dict>
+        <dict>
+            <key>Category</key>
+            <string>14</string>
+            <key>Frequency</key>
+            <string>Clean or organize an element in your life for about an hour</string>
+            <key>ItemID</key>
+            <string>low</string>
+            <key>Suggestion</key>
+            <string>all</string>
+            <key>TimeSensitive</key>
+            <string>place</string>
+        </dict>
+        <dict>
+            <key>Category</key>
+            <string>15</string>
+            <key>Frequency</key>
+            <string>Stand or sit outdoors: look and listen long enough</string>
+            <key>ItemID</key>
+            <string>low</string>
+            <key>Suggestion</key>
+            <string>all</string>
+            <key>TimeSensitive</key>
+            <string>heart</string>
+        </dict>
+        <dict>
+            <key>Category</key>
+            <string>16</string>
+            <key>Frequency</key>
+            <string>Work on the garden / yard</string>
+            <key>ItemID</key>
+            <string>low</string>
+            <key>Suggestion</key>
+            <string>day</string>
+            <key>TimeSensitive</key>
+            <string>place</string>
+        </dict>
+        <dict>
+            <key>Category</key>
+            <string>17</string>
+            <key>Frequency</key>
+            <string>Write a letter, card, or journal entry</string>
+            <key>ItemID</key>
+            <string>low</string>
+            <key>Suggestion</key>
+            <string>all</string>
+            <key>TimeSensitive</key>
+            <string>mind</string>
+        </dict>
+        <dict>
+            <key>Category</key>
+            <string>18</string>
+            <key>Frequency</key>
+            <string>Write part of an essay, story, novel, web log, or letter to the editor</string>
+            <key>ItemID</key>
+            <string>low</string>
+            <key>Suggestion</key>
+            <string>all</string>
+            <key>TimeSensitive</key>
+            <string>mind</string>
+        </dict>
+        <dict>
+            <key>Category</key>
+            <string>19</string>
+            <key>Frequency</key>
+            <string>Call a friend / relative you haven't spoken with lately</string>
+            <key>ItemID</key>
+            <string>low</string>
+            <key>Suggestion</key>
+            <string>all</string>
+            <key>TimeSensitive</key>
+            <string>heart</string>
+        </dict>
+        <dict>
+            <key>Category</key>
+            <string>20</string>
+            <key>Frequency</key>
+            <string>Watch a documentary / listen to a podcast</string>
+            <key>ItemID</key>
+            <string>low</string>
+            <key>Suggestion</key>
+            <string>all</string>
+            <key>TimeSensitive</key>
+            <string>mind</string>
+        </dict>
+    </array>
+</plist>
