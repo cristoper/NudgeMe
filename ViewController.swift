@@ -44,6 +44,18 @@ class ViewController: UIViewController {
             TextViewItem.text=(" \(randomItem) ")
         }
     }
+
+    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
+        if segue.identifier == "showTable" {
+            // This is the segue which shows the ItemsTableViewController;
+            // we need to pass it the items array to use
+
+            // Get reference to ItemsTableViewController and set its items to ItemArray
+            let tableVC = segue.destination as? ItemsTableViewController
+            tableVC?.items = items
+        }
+    }
+
 }
 //TODO: modify random function so it recognizes the "Frequency" and "TimeSensitive" fields in the plist
 //TODO: when user edits items, he/she should be able to set these fields
